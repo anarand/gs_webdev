@@ -182,5 +182,17 @@ body{
     color: #ffffff;
     font-size: 20px;
     font-family: "Montserrat", sans-serif;
-
+    
   }
+  #usuario{
+    background-color: #227fc5;
+    height: 25px;
+    width: 200px;
+  }
+
+  #senha{
+    height: 25px;
+    width: 200px;
+    background-color: #227fc5;
+  }
+
