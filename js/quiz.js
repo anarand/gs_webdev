@@ -50,7 +50,7 @@ const perguntas =[
     },
 
     {
-        pergunta:"10. Qual dessas fontes de energia é considerada não renovável?     \n a) Energia Nuclear \n b) Energia solar  \n c) Energia eólica  \n d) Energia hidrelétrica ",
+        pergunta:"10. Qual dessas fontes de energia é considerada não renovável?    \n a) Energia Nuclear \n b) Energia solar  \n c) Energia eólica  \n d) Energia hidrelétrica ",
         resposta:"A"
     },
 
