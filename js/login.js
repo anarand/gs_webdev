@@ -13,7 +13,7 @@ function validar(){
         window.open("quiz.html")
     }
     else{
-        alert("usuario/senha inválidos!!")
+        alert("usuario/senha inválidos!")
     }
 }
 
